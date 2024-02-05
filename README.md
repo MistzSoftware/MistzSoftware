@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2 align="center"> Hello World, I'm Mathias Gagnepain !</h2> 
+<h4 align="center"> Currently a student at <a href="https://algosup.com">Algosup</a>, I study computer science in its various aspects, but more specifically development.</h4>
 
-<!--
-**MathiasGagnepain/MathiasGagnepain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MathiasGagnepain&color=blueviolet&style=plastic" alt="Mathias views on profile" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m current school project is [**Virtual-processor**](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-2.git)
+- 📫 How to reach me **mathias.gagnepain@algosup.com**
+<br>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Old Projects:**
+- [**x86-retrogaming**](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-2)
+- [**Fresco-Maker**](https://github.com/MaximeAlgosup/Fresco-Maker.git)
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathiasGagnepain&show_icons=true&locale=en&layout=donut" alt="Mathias most used langages" align="left" /></p>
+<p>&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=MathiasGagnepain&show_icons=true&theme=radical" alt="Mathias contributions" align="center" /></p>
+<br/>
