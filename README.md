@@ -1,5 +1,5 @@
 <h2 align="center"> Hello World, I'm Mathias Gagnepain !</h2> 
-<h4 align="center"> Currently a student at <a href="https://algosup.com">Algosup</a>, I study computer science in its various aspects, but more specifically development.</h4>
+<h4 align="center"> Currently a student at <a href="https://algosup.com">ALGOSUP</a>, I study computer science in its various aspects, but more specifically development.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MathiasGagnepain&color=blueviolet&style=plastic" alt="Mathias views on profile" /> </p>
 
