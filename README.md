@@ -11,6 +11,6 @@
 - [**x86-retrogaming**](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-2)
 - [**Fresco-Maker**](https://github.com/MaximeAlgosup/Fresco-Maker.git)
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathiasGagnepain&show_icons=true&locale=en&layout=donut" alt="Mathias most used langages" align="left" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathiasGagnepain&show_icons=true&locale=en&layout=donut&theme=radical" alt="Mathias most used langages" align="left" /></p>
 <p>&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=MathiasGagnepain&show_icons=true&theme=radical" alt="Mathias contributions" align="center" /></p>
 <br/>
