@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MathiasGagnepain&color=blueviolet&style=plastic" alt="Mathias views on profile" /> </p>
 
-- 🔭 I’m current school project is [**Virtual-processor**](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-2.git)
+- 🔭 My current school project is [**NULL**]()
 - 📫 How to reach me **mathias.gagnepain@algosup.com**
 <br>  
 
 **Old Projects:**
+- [**Virtual-processor**](https://github.com/algosup/2023-2024-project-3-virtual-processor-team-2)
 - [**x86-retrogaming**](https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-2)
 - [**Fresco-Maker**](https://github.com/MaximeAlgosup/Fresco-Maker.git)
 
