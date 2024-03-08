@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MathiasGagnepain&color=blueviolet&style=plastic" alt="Mathias views on profile" /> </p>
 
-- 🔭 My current school project is [**NULL**]()
+- 🔭 My current school project is [**Sportshield**](https://github.com/algosup/2023-2024-project-4-sportshield-team-2)
 - 📫 How to reach me **mathias.gagnepain@algosup.com**
 <br>  
 
