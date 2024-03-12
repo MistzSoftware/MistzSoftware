@@ -15,3 +15,4 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathiasGagnepain&show_icons=true&locale=en&layout=donut&theme=radical" alt="Mathias most used langages" align="left" /></p>
 <p>&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=MathiasGagnepain&show_icons=true&theme=radical" alt="Mathias contributions" align="center" /></p>
 <br/>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=MathiasGagnepain&theme=radical"></p>
