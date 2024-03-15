@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub+profile!;I+am+Mathias+GAGNEPAIN+a+Software+Engineering+Student.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub+profile!;I+am+Mathias+GAGNEPAIN;A+Software+Engineering+Student.)](https://git.io/typing-svg)
 
 <h4 align="center"> Currently a student at <a href="https://algosup.com">ALGOSUP</a>, I study computer science in its various aspects, but more specifically development.</h4>
 
