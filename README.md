@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub+profile!;I%27m+Mathias+GAGNEPAIN+a+Software+Engineering+Student.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub+profile!;I+am+Mathias+GAGNEPAIN+a+Software+Engineering+Student.)](https://git.io/typing-svg)
 
 <h4 align="center"> Currently a student at <a href="https://algosup.com">ALGOSUP</a>, I study computer science in its various aspects, but more specifically development.</h4>
 
@@ -77,6 +77,12 @@
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=windows"/>](https://www.microsoft.com/en-us/windows)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linux"/>](https://www.linux.org/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=androidstudio"/>](https://developer.android.com/studio)
+</details>
+
+<details> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
+
+  <p><a href="https://holopin.io/@mathiasgagnepain"><img src="https://holopin.me/mathiasgagnepain" alt="@mathiasgagnepain&#39;s Holopin board"></a></p>
 </details>
 
 <br>
