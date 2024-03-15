@@ -34,9 +34,10 @@
 <br>
 
 <details open> 
-  <summary><h2>📘 Old Project I worked on</h2></summary>
+  <summary><h2>📘 Project I worked on</h2></summary>
 
   <p align="left">
+      <a href="https://github.com/algosup/2023-2024-project-4-sportshield-team-2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-4-sportshield-team-2&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="2023-2024-project-4-sportshield-team-2"></a>
     <a href="https://github.com/algosup/2023-2024-project-3-virtual-processor-team-2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-3-virtual-processor-team-2&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="2023-2024-project-3-virtual-processor-team-2"></a>
     <a href="https://github.com/algosup/2023-2024-project-2-x86-retrogaming-team-2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-2-x86-retrogaming-team-2&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="2023-2024-project-2-x86-retrogaming-team-2"></a>
     <a href="https://github.com/MaximeAlgosup/Fresco-Maker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MaximeAlgosup&repo=Fresco-Maker&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Fresco-Maker"></a>
