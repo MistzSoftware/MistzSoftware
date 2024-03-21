@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub+profile!;I+am+Mathias+GAGNEPAIN;A+Software+Engineering+Student.)](https://git.io/typing-svg)
 
-<h4 align="center"> Currently a student at <a href="https://algosup.com">ALGOSUP</a>, I study computer science in its various aspects, but more specifically development.</h4>
+<h4 align="center"> Currently studying at <a href="https://algosup.com">ALGOSUP</a>, I study computer science in its various aspects, but more specifically development.</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MathiasGagnepain&color=blueviolet&style=plastic" alt="Mathias views on profile" /> </p>
 
@@ -16,6 +16,9 @@
  <img width=30.7% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathiasGagnepain&show_icons=true&locale=en&layout=donut&theme=radical" alt="Mathias most used langages" />
  <div>
     <img width=75.7% src="https://github-readme-streak-stats.herokuapp.com?user=MathiasGagnepain&theme=radical" alt="Mathias Contribution">
+ </div>
+ <div>
+    <img width= 75.7% src="https://github-readme-activity-graph.vercel.app/graph?username=MathiasGagnepain&theme=redical" alt="Contributions graph">
  </div>
 </div>
 
