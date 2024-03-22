@@ -22,7 +22,6 @@
  </div>
 </div>
 
-
 <details open> 
   <summary><h2>📕 My Top Open Source Projects</h2></summary>
 
