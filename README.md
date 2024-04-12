@@ -1,3 +1,5 @@
+#
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub+profile!;I+am+Mathias+GAGNEPAIN;A+Software+Engineering+Student.)](https://git.io/typing-svg)
 
 <h4 align="center"> Currently studying at <a href="https://algosup.com">ALGOSUP</a>, I study computer science in its various aspects, but more specifically development.</h4>
@@ -22,12 +24,13 @@
  </div>
 </div>
 
-<details open> 
+<details open>
   <summary><h2>📕 My Top Open Source Projects</h2></summary>
 
   <p align="left">
     <a href="https://github.com/MathiasGagnepain/Warframe-Riven-Roll-Calculator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MathiasGagnepain&repo=Warframe-Riven-Roll-Calculator&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Warframe-Riven-Roll-Calculator"></a>
     <a href="https://github.com/MathiasGagnepain/smfl-training"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MathiasGagnepain&repo=smfl-training&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="smfl-training"></a>
+    <a href="https://github.com/MathiasGagnepain/Stickman-Adventure"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MathiasGagnepain&repo=Stickman-Adventure&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Stickman-Adventure"></a>
   </p>
 
   <a href="https://github.com/MathiasGagnepain?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=aqua&logo=repo"/></a>
@@ -35,7 +38,7 @@
 
 <br>
 
-<details open> 
+<details open>
   <summary><h2>📘 Project I worked on</h2></summary>
 
   <p align="left">
@@ -48,11 +51,10 @@
   <a href="https://github.com/MathiasGagnepain?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=aqua&logo=repo"/></a>
 </details>
 
-<details> 
+<details>
   <summary><h2>🛠️ Languages and Tools</h2></summary>
 
   <h3>👨‍💻 Main Stack:</h3>
-
 
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -82,7 +84,7 @@
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=androidstudio"/>](https://developer.android.com/studio)
 </details>
 
-<details> 
+<details>
   <summary><h2>🏷️ Holopin Badges</h2></summary>
 
   <p><a href="https://holopin.io/@mathiasgagnepain"><img src="https://holopin.me/mathiasgagnepain" alt="@mathiasgagnepain&#39;s Holopin board"></a></p>
@@ -90,8 +92,9 @@
 
 <br>
 
-## Contact me:
+## Contact me:&nbsp;
+
 <div align="center">
-    <a href = "mailto: mathias.gagnepain@algosup.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/mathias-gagnepain-426a131b0/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+    <a href = "mailto: mathias.gagnepain@algosup.com"><img loading="lazy" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/mathias-gagnepain-426a131b0/" target="_blank"><img loading="lazy" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
