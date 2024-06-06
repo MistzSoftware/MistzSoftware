@@ -57,32 +57,39 @@
 
   <h3>👨‍💻 Main Stack:</h3>
 
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=php"/>](https://www.php.net/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=java"/>](https://dev.java/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+[<img height="48px" width="48px" alt="Icone HTML" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img height="48px" width="48px" alt="Icone JavaScript" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img height="48px" width="48px" alt="Icone PHP" src="https://skillicons.dev/icons?i=php"/>](https://www.php.net/)
+[<img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
+[<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=java"/>](https://dev.java/)
+[<img height="48px" width="48px" alt="Icone MySQL" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/)
+[<img height="48px" width="48px" alt="Icone C" src="https://skillicons.dev/icons?i=c"/>](https://en.wikipedia.org/wiki/C_(programming_language))
+[<img height="48px" width="48px" alt="Icone C++" src="https://skillicons.dev/icons?i=cpp"/>](https://cplusplus.com/)
+[<img height="48px" width="48px" alt="Icone Arduino" src="https://skillicons.dev/icons?i=arduino"/>](https://www.arduino.cc/)
+[<img height="48px" width="48px" alt="Icone Flutter" src="https://skillicons.dev/icons?i=flutter"/>](https://flutter.dev)
+[<img height="48px" width="48px" alt="Icone Dart" src="https://skillicons.dev/icons?i=dart"/>](https://dart.dev)
 
   <h3>📚 Studying in this moment:</h3>
 
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=c"/>](https://en.wikipedia.org/wiki/C_(programming_language))
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>](https://cplusplus.com/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=arduino"/>](https://www.arduino.cc/)
+
+[<img height="48px" width="48px" alt="Icone Ruby" src="https://skillicons.dev/icons?i=ruby"/>](https://www.ruby-lang.org/en/)
+[<img height="48px" width="48px" alt="Icone Go" src="https://skillicons.dev/icons?i=go"/>](https://go.dev)
 
   <h3>🧰 Tools:</h3>
 
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=eclipse"/>](https://www.eclipse.org/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=obsidian"/>](https://obsidian.md/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=stackoverflow"/>](https://stackoverflow.com/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=gmail"/>](https://www.google.com/intl/fr/gmail/about/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=windows"/>](https://www.microsoft.com/en-us/windows)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linux"/>](https://www.linux.org/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=androidstudio"/>](https://developer.android.com/studio)
+[<img height="48px" width="48px" alt="Icone GitHub" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
+[<img height="48px" width="48px" alt="Icone GitLab" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
+[<img height="48px" width="48px" alt="Icone Eclispe" src="https://skillicons.dev/icons?i=eclipse"/>](https://www.eclipse.org/)
+[<img height="48px" width="48px" alt="Icone Obsidian" src="https://skillicons.dev/icons?i=obsidian"/>](https://obsidian.md/)
+[<img height="48px" width="48px" alt="Icone StackOverflow" src="https://skillicons.dev/icons?i=stackoverflow"/>](https://stackoverflow.com/)
+[<img height="48px" width="48px" alt="Icone GMail" src="https://skillicons.dev/icons?i=gmail"/>](https://www.google.com/intl/fr/gmail/about/)
+[<img height="48px" width="48px" alt="Icone Windows" src="https://skillicons.dev/icons?i=windows"/>](https://www.microsoft.com/en-us/windows)
+[<img height="48px" width="48px" alt="Icone Linux" src="https://skillicons.dev/icons?i=linux"/>](https://www.linux.org/)
+[<img height="48px" width="48px" alt="Icone AndroidStudio" src="https://skillicons.dev/icons?i=androidstudio"/>](https://developer.android.com/studio)
+[<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
+[<img height="48px" width="48px" alt="Icone Firebase" src="https://skillicons.dev/icons?i=firebase"/>](https://firebase.google.com)
 </details>
 
 <details>
