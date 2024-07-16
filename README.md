@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MathiasGagnepain&color=blueviolet&style=plastic" alt="Mathias views on profile" /> </p>
 
-- 🔭 My current school project is [**Adopte Un Candidat**](https://github.com/algosup/2023-2024-project-5-flutter-team-6)
+- 🔭 My current school project is [Holydays](https://i.gifer.com/13rE.gif)
 
 <br>
 <hr>
