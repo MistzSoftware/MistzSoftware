@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MathiasGagnepain&color=blueviolet&style=plastic" alt="Mathias views on profile" /> </p>
 
-- 🔭 My current school project is [Holydays](https://i.gifer.com/13rE.gif)
+- 🔭 My current school project is [FPGA Frogger](https://github.com/algosup/2024-2025-project-1-fpga-team-5) <!-- [Holydays](https://i.gifer.com/13rE.gif) -->
 
 <br>
 <hr>
