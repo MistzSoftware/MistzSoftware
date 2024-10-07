@@ -41,6 +41,7 @@
   <summary><h2>📘 Project I worked on</h2></summary>
 
   <p align="left">
+    <a href="https://github.com/algosup/2024-2025-project-1-fpga-team-5"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2024-2025-project-1-fpga-team-5&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="2024-2025-project-1-fpga-team-5"></a>
     <a href="https://github.com/algosup/2023-2024-project-5-flutter-team-6"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-5-flutter-team-6&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="2023-2024-project-5-flutter-team-6"></a>
     <a href="https://github.com/algosup/2023-2024-project-4-sportshield-team-2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-4-sportshield-team-2&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="2023-2024-project-4-sportshield-team-2"></a>
     <a href="https://github.com/algosup/2023-2024-project-3-virtual-processor-team-2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-3-virtual-processor-team-2&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="2023-2024-project-3-virtual-processor-team-2"></a>
