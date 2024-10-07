@@ -10,17 +10,16 @@
 
 <br>
 <hr>
-
 <br>  
 
 <div align="center" style="margin-bottom:200px">
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=MathiasGagnepain&show_icons=true&theme=radical" alt="Mathias contributions" />
  <img width=30.7% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathiasGagnepain&show_icons=true&locale=en&layout=donut&theme=radical" alt="Mathias most used langages" />
- <div>
+ <div align="center">
     <img width=75.7% src="https://github-readme-streak-stats.herokuapp.com?user=MathiasGagnepain&theme=radical" alt="Mathias Contribution">
  </div>
- <div>
-    <img width= 75.7% src="https://github-readme-activity-graph.vercel.app/graph?username=MathiasGagnepain&theme=redical" alt="Contributions graph">
+ <div align="center">
+    <img width= 75.7% src="https://github-readme-activity-graph.vercel.app/graph?username=MathiasGagnepain&show_icons=true&theme=redical" alt="Mathias contributions graph">
  </div>
 </div>
 
