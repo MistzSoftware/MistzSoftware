@@ -4,7 +4,7 @@
 
 <h4 align="center"> Currently studying at <a href="https://algosup.com">ALGOSUP</a>, I study computer science in its various aspects, but more specifically development.</h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MathiasGagnepain&color=blueviolet&style=plastic" alt="Mathias views on profile" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MistzSoftware&color=blueviolet&style=plastic" alt="Mathias views on profile" /> </p>
 
 - 🔭 My current school project is a [Serious Game about climat changes](https://github.com/algosup/2024-2025-project-2-serious-game-team-6) <!-- [Holydays](https://i.gifer.com/13rE.gif) -->
 
@@ -13,13 +13,13 @@
 <br>  
 
 <div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=MathiasGagnepain&show_icons=true&theme=radical" alt="Mathias contributions" />
- <img width=30.7% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathiasGagnepain&show_icons=true&locale=en&layout=donut&theme=radical" alt="Mathias most used langages" />
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=MistzSoftware&show_icons=true&theme=radical" alt="Mathias contributions" />
+ <img width=30.7% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MistzSoftware&show_icons=true&locale=en&layout=donut&theme=radical" alt="Mathias most used langages" />
  <div align="center">
     <img width=75.7% src="https://github-readme-streak-stats.herokuapp.com?user=MathiasGagnepain&theme=radical" alt="Mathias Contribution">
  </div>
  <div align="center">
-    <img width= 75.7% src="https://github-readme-activity-graph.vercel.app/graph?username=MathiasGagnepain&show_icons=true&theme=redical" alt="Mathias contributions graph">
+    <img width= 75.7% src="https://github-readme-activity-graph.vercel.app/graph?username=MistzSoftware&show_icons=true&theme=redical" alt="Mathias contributions graph">
  </div>
 </div>
 
@@ -27,9 +27,9 @@
   <summary><h2>📕 My Top Open Source Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/MathiasGagnepain/Warframe-Riven-Roll-Calculator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MathiasGagnepain&repo=Warframe-Riven-Roll-Calculator&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Warframe-Riven-Roll-Calculator"></a>
-    <a href="https://github.com/MathiasGagnepain/smfl-training"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MathiasGagnepain&repo=smfl-training&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="smfl-training"></a>
-    <a href="https://github.com/MathiasGagnepain/Stickman-Adventure"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MathiasGagnepain&repo=Stickman-Adventure&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Stickman-Adventure"></a>
+    <a href="https://github.com/MathiasGagnepain/Warframe-Riven-Roll-Calculator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MistzSoftware&repo=Warframe-Riven-Roll-Calculator&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Warframe-Riven-Roll-Calculator"></a>
+    <a href="https://github.com/MathiasGagnepain/smfl-training"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MistzSoftware&repo=smfl-training&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="smfl-training"></a>
+    <a href="https://github.com/MathiasGagnepain/Stickman-Adventure"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MistzSoftware&repo=Stickman-Adventure&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Stickman-Adventure"></a>
   </p>
 
   <a href="https://github.com/MathiasGagnepain?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=aqua&logo=repo"/></a>
