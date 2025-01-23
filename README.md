@@ -1,25 +1,25 @@
 #
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub+profile!;I+am+Mathias+GAGNEPAIN;A+Software+Engineering+Student.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub+profile!;I+am+Mistz+Software;A+Software+Engineering+Student.)](https://git.io/typing-svg)
 
 <h4 align="center"> Currently studying at <a href="https://algosup.com">ALGOSUP</a>, I study computer science in its various aspects, but more specifically development.</h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MistzSoftware&color=blueviolet&style=plastic" alt="Mathias views on profile" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MistzSoftware&color=blueviolet&style=plastic" alt="MistzSoftware views on profile" /> </p>
 
-- 🔭 My current school project is a [Serious Game about climat changes](https://github.com/algosup/2024-2025-project-2-serious-game-team-6) <!-- [Holydays](https://i.gifer.com/13rE.gif) -->
+- 🔭 My current school project is a [Shortest Path on USA roads (28M of edges)](https://github.com/algosup/2024-2025-project-3-quickest-path-team-5) <!-- [Holydays](https://i.gifer.com/13rE.gif) -->
 
 <br>
 <hr>
 <br>  
 
 <div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=MistzSoftware&show_icons=true&theme=radical" alt="Mathias contributions" />
- <img width=30.7% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MistzSoftware&show_icons=true&locale=en&layout=donut&theme=radical" alt="Mathias most used langages" />
+ <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=MistzSoftware&show_icons=true&theme=radical" alt="MistzSoftware contributions" />
+ <img width=30.7% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MistzSoftware&show_icons=true&locale=en&layout=donut&theme=radical" alt="MistzSoftware most used langages" />
  <div align="center">
-    <img width=75.7% src="https://github-readme-streak-stats.herokuapp.com?user=MistzSoftware&theme=radical" alt="Mathias Contribution">
+    <img width=75.7% src="https://github-readme-streak-stats.herokuapp.com?user=MistzSoftware&theme=radical" alt="MistzSoftware Contribution">
  </div>
  <div align="center">
-    <img width= 75.7% src="https://github-readme-activity-graph.vercel.app/graph?username=MistzSoftware&show_icons=true&theme=redical" alt="Mathias contributions graph">
+    <img width= 75.7% src="https://github-readme-activity-graph.vercel.app/graph?username=MistzSoftware&show_icons=true&theme=redical" alt="MistzSoftware contributions graph">
  </div>
 </div>
 
@@ -69,10 +69,12 @@
 [<img height="48px" width="48px" alt="Icone Arduino" src="https://skillicons.dev/icons?i=arduino"/>](https://www.arduino.cc/)
 [<img height="48px" width="48px" alt="Icone Flutter" src="https://skillicons.dev/icons?i=flutter"/>](https://flutter.dev)
 [<img height="48px" width="48px" alt="Icone Dart" src="https://skillicons.dev/icons?i=dart"/>](https://dart.dev)
+[<img height="48px" width="48px" alt="Icone Lua" src="https://skillicons.dev/icons?i=lua"/>](https://www.lua.org/)
 
   <h3>📚 Studying in this moment:</h3>
 
-
+[<img height="48px" width="48px" alt="Icone C#" src="https://skillicons.dev/icons?i=cs"/>](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[<img height="48px" width="48px" alt="Icone Kubernetes" src="https://skillicons.dev/icons?i=kubernetes"/>](https://kubernetes.io/)
 [<img height="48px" width="48px" alt="Icone Ruby" src="https://skillicons.dev/icons?i=ruby"/>](https://www.ruby-lang.org/en/)
 [<img height="48px" width="48px" alt="Icone Go" src="https://skillicons.dev/icons?i=go"/>](https://go.dev)
 
@@ -90,12 +92,7 @@
 [<img height="48px" width="48px" alt="Icone AndroidStudio" src="https://skillicons.dev/icons?i=androidstudio"/>](https://developer.android.com/studio)
 [<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
 [<img height="48px" width="48px" alt="Icone Firebase" src="https://skillicons.dev/icons?i=firebase"/>](https://firebase.google.com)
-</details>
-
-<details>
-  <summary><h2>🏷️ Holopin Badges</h2></summary>
-
-  <p><a href="https://holopin.io/@mathiasgagnepain"><img src="https://holopin.me/mathiasgagnepain" alt="@mathiasgagnepain&#39;s Holopin board"></a></p>
+[<img height="48px" width="48px" alt="Icone Docker" src="https://skillicons.dev/icons?i=docker"/>](https://www.docker.com/)
 </details>
 
 <br>
