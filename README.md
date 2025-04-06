@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub+profile!;I+am+Mistz+Software;A+Software+Engineering+Student.)](https://git.io/typing-svg)
 
-<h4 align="center"> Currently studying at <a href="https://algosup.com">ALGOSUP</a>, I study computer science in its various aspects, but more specifically development.</h4>
+<h4 align="center"> Passionately exploring the vast realms of computer science, with a keen focus on software development and its diverse applications.</h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MistzSoftware&color=blueviolet&style=plastic" alt="MistzSoftware views on profile" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MistzSoftware&color=blueviolet&style=plastic" alt="MistzSoftware profile views" /> </p>
 
-- 🔭 My current school project is a [Shortest Path on USA roads (28M of edges)](https://github.com/algosup/2024-2025-project-3-quickest-path-team-5) <!-- [Holydays](https://i.gifer.com/13rE.gif) -->
+- 🔭 My current school project is a [Holydays](https://i.gifer.com/13rE.gif)
 
 <br>
 <hr>
@@ -27,8 +27,9 @@
   <summary><h2>📕 My Top Open Source Projects</h2></summary>
 
   <p align="left">
+    <a href="https://github.com/MistzSoftware/schedule-1-placement"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MistzSoftware&repo=schedule-1-placement&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Schedule-1-Placement"></a>
     <a href="https://github.com/MistzSoftware/Warframe-Riven-Roll-Calculator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MistzSoftware&repo=Warframe-Riven-Roll-Calculator&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Warframe-Riven-Roll-Calculator"></a>
-    <a href="https://github.com/MistzSoftware/smfl-training"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MistzSoftware&repo=smfl-training&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="smfl-training"></a>
+    <!-- <a href="https://github.com/MistzSoftware/smfl-training"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MistzSoftware&repo=smfl-training&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="smfl-training"></a> -->
     <a href="https://github.com/MistzSoftware/Stickman-Adventure"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MistzSoftware&repo=Stickman-Adventure&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Stickman-Adventure"></a>
   </p>
 
@@ -38,9 +39,12 @@
 <br>
 
 <details open>
-  <summary><h2>📘 Project I worked on</h2></summary>
+  <summary><h2>📘 Interesting Projects I worked on</h2></summary>
 
   <p align="left">
+    <a href="https://github.com/algosup/2024-2025-project-4-web-fpga-team-5"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2024-2025-project-4-web-fpga-team-5&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Web FPGA"></a>
+    <a href="https://github.com/algosup/2024-2025-project-3-quickest-path-team-5"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2024-2025-project-3-quickest-path-team-5&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Quickest Path"></a>
+    <a href="https://github.com/algosup/2024-2025-project-3-quickest-path-team-5"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2024-2025-project-3-quickest-path-team-5&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Quickest Path"></a>
     <a href="https://github.com/algosup/2024-2025-project-1-fpga-team-5"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2024-2025-project-1-fpga-team-5&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="2024-2025-project-1-fpga-team-5"></a>
     <a href="https://github.com/algosup/2023-2024-project-5-flutter-team-6"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-5-flutter-team-6&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="2023-2024-project-5-flutter-team-6"></a>
     <a href="https://github.com/algosup/2023-2024-project-4-sportshield-team-2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=algosup&repo=2023-2024-project-4-sportshield-team-2&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="2023-2024-project-4-sportshield-team-2"></a>
@@ -101,5 +105,5 @@
 
 <div align="center">
     <a href = "mailto: mathias.gagnepain@algosup.com"><img loading="lazy" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/mathias-gagnepain-426a131b0/" target="_blank"><img loading="lazy" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/mathias-delille/" target="_blank"><img loading="lazy" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
