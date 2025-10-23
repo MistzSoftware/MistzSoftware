@@ -6,7 +6,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MistzSoftware&color=blueviolet&style=plastic" alt="MistzSoftware profile views" /> </p>
 
-- 🔭 My current school project is a [Holydays](https://i.gifer.com/13rE.gif)
+<!-- - 🔭 My current school project is a [Holydays](https://i.gifer.com/13rE.gif) -->
+- 💼 Currently Working at [Sodilec](https://www.sodilec.com/)
+- 🔭 Focusing on my studies at [M2I](https://www.m2iformation.fr/) as a CDA (Concepteur Développeur d'Application *– Application Designer and Developer*)
 
 <br>
 <hr>
@@ -29,7 +31,7 @@
   <p align="left">
     <a href="https://github.com/MistzSoftware/schedule-1-placement"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MistzSoftware&repo=schedule-1-placement&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Schedule-1-Placement"></a>
     <a href="https://github.com/MistzSoftware/Warframe-Riven-Roll-Calculator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MistzSoftware&repo=Warframe-Riven-Roll-Calculator&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Warframe-Riven-Roll-Calculator"></a>
-    <!-- <a href="https://github.com/MistzSoftware/smfl-training"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MistzSoftware&repo=smfl-training&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="smfl-training"></a> -->
+    <a href="https://github.com/MistzSoftware/Zigbee-Light-Control-based-on-daytime-for-home-assistant"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MistzSoftware&repo=Zigbee-Light-Control-based-on-daytime-for-home-assistant&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Zigbee-Light-Control-based-on-daytime-for-home-assistant"></a>
     <a href="https://github.com/MistzSoftware/Stickman-Adventure"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MistzSoftware&repo=Stickman-Adventure&theme=radical&bg_color=1F222E&title_color=F85D7F&hide_border=false&icon_color=F8D866&show_icons=true" alt="Stickman-Adventure"></a>
   </p>
 
@@ -64,6 +66,7 @@
 [<img height="48px" width="48px" alt="Icone HTML" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img height="48px" width="48px" alt="Icone CSS" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img height="48px" width="48px" alt="Icone JavaScript" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img height="48px" width="48px" alt="Icone TypeScript" src="https://skillicons.dev/icons?i=ts"/>](https://www.typescriptlang.org/)
 [<img height="48px" width="48px" alt="Icone PHP" src="https://skillicons.dev/icons?i=php"/>](https://www.php.net/)
 [<img height="48px" width="48px" alt="Icone Python" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
 [<img height="48px" width="48px" alt="Icone Java" src="https://skillicons.dev/icons?i=java"/>](https://dev.java/)
@@ -74,6 +77,15 @@
 [<img height="48px" width="48px" alt="Icone Flutter" src="https://skillicons.dev/icons?i=flutter"/>](https://flutter.dev)
 [<img height="48px" width="48px" alt="Icone Dart" src="https://skillicons.dev/icons?i=dart"/>](https://dart.dev)
 [<img height="48px" width="48px" alt="Icone Lua" src="https://skillicons.dev/icons?i=lua"/>](https://www.lua.org/)
+[<img height="48px" width="48px" alt="Icone Bootstrap" src="https://skillicons.dev/icons?i=bootstrap"/>](https://getbootstrap.com/)
+[<img height="48px" width="48px" alt="Icone Tailwind" src="https://skillicons.dev/icons?i=tailwind"/>](https://tailwindcss.com/)
+[<img height="48px" width="48px" alt="Icone Markdown" src="https://skillicons.dev/icons?i=md"/>](https://www.markdownguide.org/)
+[<img height="48px" width="48px" alt="Icone nestjs" src="https://skillicons.dev/icons?i=nestjs"/>](https://nestjs.com/)
+[<img height="48px" width="48px" alt="Icone raspberrypi" src="https://skillicons.dev/icons?i=raspberrypi"/>](https://www.raspberrypi.com/)
+[<img height="48px" width="48px" alt="Icone svelte" src="https://skillicons.dev/icons?i=svelte"/>](https://svelte.dev/)
+[<img height="48px" width="48px" alt="Icone vite" src="https://skillicons.dev/icons?i=vite"/>](https://vite.dev/)
+[<img height="48px" width="48px" alt="Icone vitest" src="https://skillicons.dev/icons?i=vitest"/>](https://vitest.dev/)
+[<img height="48px" width="48px" alt="Icone jest" src="https://skillicons.dev/icons?i=jest"/>](https://jestjs.io/)
 
   <h3>📚 Studying in this moment:</h3>
 
@@ -81,6 +93,8 @@
 [<img height="48px" width="48px" alt="Icone Kubernetes" src="https://skillicons.dev/icons?i=kubernetes"/>](https://kubernetes.io/)
 [<img height="48px" width="48px" alt="Icone Ruby" src="https://skillicons.dev/icons?i=ruby"/>](https://www.ruby-lang.org/en/)
 [<img height="48px" width="48px" alt="Icone Go" src="https://skillicons.dev/icons?i=go"/>](https://go.dev)
+[<img height="48px" width="48px" alt="Icone AWS" src="https://skillicons.dev/icons?i=aws"/>](https://aws.amazon.com)
+[<img height="48px" width="48px" alt="Icone rust" src="https://skillicons.dev/icons?i=rust"/>](https://rust-lang.org/)
 
   <h3>🧰 Tools:</h3>
 
@@ -97,6 +111,14 @@
 [<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
 [<img height="48px" width="48px" alt="Icone Firebase" src="https://skillicons.dev/icons?i=firebase"/>](https://firebase.google.com)
 [<img height="48px" width="48px" alt="Icone Docker" src="https://skillicons.dev/icons?i=docker"/>](https://www.docker.com/)
+[<img height="48px" width="48px" alt="Icone NPM" src="https://skillicons.dev/icons?i=npm"/>](https://www.npmjs.com/)
+[<img height="48px" width="48px" alt="Icone bash" src="https://skillicons.dev/icons?i=bash"/>](https://www.gnu.org/software/bash/bash.html)
+[<img height="48px" width="48px" alt="Icone gamemakerstudio" src="https://skillicons.dev/icons?i=gamemakerstudio"/>](https://gamemaker.io/)
+[<img height="48px" width="48px" alt="Icone godot" src="https://skillicons.dev/icons?i=godot"/>](https://godotengine.org/)
+[<img height="48px" width="48px" alt="Icone postman" src="https://skillicons.dev/icons?i=postman"/>](https://www.postman.com/)
+[<img height="48px" width="48px" alt="Icone powershell" src="https://skillicons.dev/icons?i=powershell"/>](https://www.powershellgallery.com/)
+[<img height="48px" width="48px" alt="Icone ubuntu" src="https://skillicons.dev/icons?i=ubuntu"/>](https://ubuntu.com/)
+[<img height="48px" width="48px" alt="Icone vim" src="https://skillicons.dev/icons?i=vim"/>](https://www.vim.org/)
 </details>
 
 <br>
