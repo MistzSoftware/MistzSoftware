@@ -1,6 +1,6 @@
 #
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub+profile!;I+am+Mistz+Software;A+Software+Engineering+Student.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;Welcome+to+my+GitHub+profile!;I+am+Mistz+Software;A+Software+Engineer.)](https://git.io/typing-svg)
 
 <h4 align="center"> Passionately exploring the vast realms of computer science, with a keen focus on software development and its diverse applications.</h4>
 
@@ -8,7 +8,6 @@
 
 <!-- - 🔭 My current school project is a [Holydays](https://i.gifer.com/13rE.gif) -->
 - 💼 Currently Working at [Sodilec](https://www.sodilec.com/)
-- 🔭 Focusing on my studies at [M2I](https://www.m2iformation.fr/) as a CDA (Concepteur Développeur d'Application *– Application Designer and Developer*)
 
 <br>
 <hr>
